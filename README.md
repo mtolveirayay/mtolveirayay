@@ -1,10 +1,10 @@
-# Olá, eu sou o [Seu Nome Completo]! 👋
+# Olá, eu sou o Matheus Bernardo Nazário Oliveira! 👋
 
 ## 🚀 Sobre Mim
-Sou estudante do curso **Técnico em Informática para Internet** e estou focado no desenvolvimento Web. Atualmente, tenho um domínio sólido da base do **JavaScript**, criando aplicações dinâmicas e estruturadas, e estou expandindo meus horizontes para o ecossistema fullstack.
+Sou estudante do curso **Técnico em Informática para Internet** e estou focado no desenvolvimento Web. Atualmente, tenho um domínio sólido da base do **JavaScript**, criando aplicações dinâmicas e estruturadas..
 
 - 🎓 Estudando desenvolvimento web, arquitetura de redes e banco de dados.
-- 💻 Atualmente focado em aprofundar em [insira aqui: ex: Node.js, React, ou TypeScript].
+- 💻 Atualmente focado em aprofundar em JS.
 - ⚡ Curiosidade: Adoro resolver problemas de lógica e otimizar funções no JS.
 
 ---
